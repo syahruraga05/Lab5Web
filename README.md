@@ -14,9 +14,9 @@
 ## **Javascript Dasar**
 * Penggunaan Alert sebagai property window.
 ![Gambar](/gambar/Capture3.PNG)
-* Penggunaan method dalam objek
+* Penggunaan method dalam objek</br>
 ![Gambar](/gambar/Capture4.PNG)
-* Pengunaan Prompt
+* Pengunaan Prompt</br>
 ![Gambar](/gambar/Capture5.PNG)
 * Penggunaan fungsi dan cara pemanggilannya
 ![Gambar](/gambar/Capture6.PNG)
@@ -27,7 +27,7 @@
 ![Gambar](/gambar/Capture7.PNG)
 * inilah hasilnya ketika dijalankan pada browser
 ![Gambar](/gambar/Capture8.PNG)
-* Seleksi kondisi (if-else)
+* Seleksi kondisi (if-else)</br>
 ![Gambar](/gambar/Capture9.PNG)
 * Inilah hasilnya ketika dijalankan pada browser, jika nilai lebih dari 60 maka hasilnya akan lulus, tapi jika hasilnya kurang dari 60 maka hasilnya tidak lulus
 ![Gambar](/gambar/Capture10.PNG)
