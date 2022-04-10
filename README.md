@@ -1,4 +1,4 @@
-# **Praktikum 4**
+# **Praktikum 5**
   ---------------
 |Nama			|Kelas		|NIM		|
 |-----			|-----		|-----		|
@@ -35,3 +35,26 @@
 ![Gambar](/gambar/Capture11.PNG)
 * Inilah hasilnya pada browser, ketika kita mengisi nilai 2 maka hasilnya muncul bilangan dua
 ![Gambar](/gambar/Capture12.PNG)
+</br>
+
+## **Pembuatan Form**
+* Form Input
+![Gambar](/gambar/Capture13.PNG)
+* Inilah hasilnya ketika dijalankan pada browser
+![Gambar](/gambar/Capture14.PNG)
+* Form Button
+![Gambar](/gambar/Capture15.PNG)
+* Inilah hasilnya ketika dijalankan pada browser
+![Gambar](/gambar/Capture16.PNG)
+</br>
+
+## **HTML DOM**
+* Pilihan menggunakan checkbox dengan perhitungan otomatis
+![Gambar](/gambar/Capture17.PNG)
+* Inilah hasilnya ketika dijalankan pada browser.
+![Gambar](/gambar/Capture18.PNG)
+</br>
+
+## **Pertanyaan dan Tugas**
+1. Buat script untuk melakukan validasi pada isian form.
+## **Jawaban**
